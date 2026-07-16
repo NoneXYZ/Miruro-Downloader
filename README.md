@@ -27,9 +27,8 @@ Install VLC from the official VLC website or your operating system package manag
 Clone or download the project into any local folder:
 
 ```powershell
-cd C:\Users\username\Projects
-git clone <repository-url> miruro-vlc-cli
-cd miruro-vlc-cli
+git clone git@github.com:NoneXYZ/Miruro-Downloader.git
+cd Miruro-Downloader
 ```
 
 Create and activate a virtual environment:
@@ -78,7 +77,7 @@ To stream directly in VLC:
 1. Choose option `4`.
 2. Paste a Miruro watch link.
 3. Select an episode, language, and provider using the table output.
-4. Enter a selection like:
+4. Example of a selection like:
 
 ```text
 12 sub kiwi
